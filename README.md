@@ -4,11 +4,6 @@
 
 ---
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+🧠;Exploring+LLMs+and+Reinforcement+Learning+🤖;AI+for+Health%2C+Education+%26+Automation+🚀;Always+Learning%2C+Always+Building+💡" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🌌 About Me  
