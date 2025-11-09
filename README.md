@@ -74,9 +74,15 @@
 
 ### 🛰️ Connect With Me  
 <p align="center">
-  <a href="www.linkedin.com/in/tasmayu-swain-27b886312" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/TASMAYU" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:tasmayu.swain@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/tasmayu-swain-27b886312" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/TASMAYU" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:tasmayu.swain@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
