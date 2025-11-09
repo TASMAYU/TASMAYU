@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm Tasmayu Swain</h1>
-<h3 align="center">AI/ML Engineer | LLMs | RL | Multimodal AI Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | LLMs | RL | DL</h3>
 
 ---
 
@@ -12,10 +12,10 @@
 ---
 
 ### 🌌 About Me  
-💡 A **CSE undergrad** passionate about **Artificial Intelligence**, **LLMs**, and **Reinforcement Learning**.  
+💡 A **CSE undergrad** passionate about **Artificial Intelligence**, **LLMs**, and **Reinforcement Learning**, **AGI**.  
 🧠 I love creating AI models that reason, interact, and solve real-world problems.  
-🧩 Currently exploring **autonomous AI systems** and **multimodal learning**.  
-🎯 My goal is to pursue **AI research** and contribute to **AGI development**.  
+🧩 Currently exploring **autonomous AI systems**, **RLHF** and **multimodal Agents**.  
+ 
 
 ---
 
@@ -23,12 +23,10 @@
 
 | 🌟 Project | 🚀 Description | 🧰 Tech Stack |
 |-------------|----------------|---------------|
-| 🧬 [GEN-RESIST](https://github.com/TASMAYU/GEN-RESIST) | AI Dashboard for predicting **antibiotic resistance** with visual analytics | `Python`, `FastAPI`, `Streamlit`, `Pandas`, `Plotly` |
-| 🧑‍🔬 [RESEARCH-ASSISTANT](https://github.com/TASMAYU/RESEARCH-ASSISTANT) | AI tool for summarizing and recommending research papers using LLMs | `Python`, `LangChain`, `Hugging Face`, `OpenAI API` |
+| 🧬 [GEN-RESIST](https://github.com/TASMAYU/GEN-RESIST) | AI Dashboard for predicting **antibiotic resistance** with visual analytics | `Python`, `FastAPI`, `GNN`, `Pandas`, `GAT` |
+| 🧑‍🔬 [RESEARCH-ASSISTANT](https://github.com/TASMAYU/RESEARCH-ASSISTANT) | AI tool for summarizing and recommending research papers using LLMs | `Python`, `LangChain`, `Hugging Face`, `Groq Cloud` |
 | 💻 [TWIN-LLM-ASSISTANT](https://github.com/TASMAYU/TWIN-LLM-ASSISTANT) | Personalized AI twin trained on WhatsApp data to mimic communication | `LLM`, `RAG`, `Fine-tuning`, `FastAPI` |
-| 🏥 [MULTIMODAL-AI-DOCTOR](https://github.com/TASMAYU/MULTIMODAL-AI-DOCTOR) | Medical AI bot combining **disease prediction**, **MRI**, and **X-ray** analysis | `CNN`, `ResNet50`, `VGG16`, `RandomForest`, `Flask` |
-| 🌊 [WATER-LEAK-DETECTION](https://github.com/TASMAYU/WATER-LEAK-DETECTION) | AI system for detecting pipeline leakage in real time | `TensorFlow`, `IoT`, `OpenCV`, `FastAPI` |
-| 📘 [AI-TUTOR](https://github.com/TASMAYU/AI-TUTOR) | AI tutor for PCM subjects with voice, visualization, and RL | `Gemini API`, `FastAPI`, `React`, `RL` |
+| 🏥 [MULTIMODAL-AI-DOCTOR](https://github.com/TASMAYU/MULTIMODAL-AI-DOCTOR) | Medical AI bot combining **disease prediction**, **MRI**, and **X-ray** analysis | `Python`,`Groq Cloud`,`Gradio`,`OpenAI Whisper` |
 
 ---
 
@@ -44,16 +42,19 @@
 #### 🤖 AI/ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00BFFF)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn)
 ![Keras](https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas)
+
+
 
 #### 🧩 Tools & APIs
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)
 
 ---
@@ -73,9 +74,9 @@
 
 ### 🛰️ Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/tasmayuswain" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="www.linkedin.com/in/tasmayu-swain-27b886312" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/TASMAYU" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:tasmayuswain@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:tasmayu.swain@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
@@ -84,5 +85,5 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="80%" />
 </p>
 
-<h3 align="center">💬 “Turning ideas into intelligent systems — one model at a time.”</h3>
+<h3 align="center">💬 “Turning ideas into intelligent systems .”</h3>
 
