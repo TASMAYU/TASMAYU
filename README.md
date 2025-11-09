@@ -19,17 +19,6 @@
 
 ---
 
-### 🧠 Featured Projects  
-
-| 🌟 Project | 🚀 Description | 🧰 Tech Stack |
-|-------------|----------------|---------------|
-| 🧬 [GEN-RESIST](https://github.com/TASMAYU/GEN-RESIST) | AI Dashboard for predicting **antibiotic resistance** with visual analytics | `Python`, `FastAPI`, `GNN`, `Pandas`, `GAT` |
-| 🧑‍🔬 [RESEARCH-ASSISTANT](https://github.com/TASMAYU/RESEARCH-ASSISTANT) | AI tool for summarizing and recommending research papers using LLMs | `Python`, `LangChain`, `Hugging Face`, `Groq Cloud` |
-| 💻 [TWIN-LLM-ASSISTANT](https://github.com/TASMAYU/TWIN-LLM-ASSISTANT) | Personalized AI twin trained on WhatsApp data to mimic communication | `LLM`, `RAG`, `Fine-tuning`, `FastAPI` |
-| 🏥 [MULTIMODAL-AI-DOCTOR](https://github.com/TASMAYU/MULTIMODAL-AI-DOCTOR) | Medical AI bot combining **disease prediction**, **MRI**, and **X-ray** analysis | `Python`,`Groq Cloud`,`Gradio`,`OpenAI Whisper` |
-
----
-
 ### ⚙️ Tech Stack  
 
 #### 💻 Languages
@@ -55,9 +44,19 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)
+
+### 🧠 Featured Projects  
+
+| 🌟 Project | 🚀 Description | 🧰 Tech Stack |
+|-------------|----------------|---------------|
+| 🧬 [GEN-RESIST](https://github.com/TASMAYU/GEN-RESIST) | AI Dashboard for predicting **antibiotic resistance** with visual analytics | `Python`, `FastAPI`, `GNN`, `Pandas`, `GAT` |
+| 🧑‍🔬 [RESEARCH-ASSISTANT](https://github.com/TASMAYU/RESEARCH-ASSISTANT) | AI tool for summarizing and recommending research papers using LLMs | `Python`, `LangChain`, `Hugging Face`, `Groq Cloud` |
+| 💻 [TWIN-LLM-ASSISTANT](https://github.com/TASMAYU/TWIN-LLM-ASSISTANT) | Personalized AI twin trained on WhatsApp data to mimic communication | `LLM`, `RAG`, `Fine-tuning`, `FastAPI` |
+| 🏥 [MULTIMODAL-AI-DOCTOR](https://github.com/TASMAYU/MULTIMODAL-AI-DOCTOR) | Medical AI bot combining **disease prediction**, **MRI**, and **X-ray** analysis | `Python`,`Groq Cloud`,`Gradio`,`OpenAI Whisper` |
 
 ---
+
+
 
 ### 📊 GitHub Analytics  
 
