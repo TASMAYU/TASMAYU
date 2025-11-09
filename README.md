@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hey 👋, I'm Tasmayu Swain</h1>
+<h1 align="center">Hey , I'm Tasmayu Swain</h1>
 <h3 align="center">AI/ML Engineer | LLMs | RL | DL</h3>
 
 ---
@@ -7,7 +7,7 @@
 ---
 
 ### 🌌 About Me  
-💡 A **CSE undergrad** passionate about **Artificial Intelligence**, **LLMs**, and **Reinforcement Learning**, **AGI**.  
+💡 A **CSE undergrad** passionate about **Artificial Intelligence**, **LLMs**, **Reinforcement Learning** and **AGI**.  
 🧠 I love creating AI models that reason, interact, and solve real-world problems.  
 🧩 Currently exploring **autonomous AI systems**, **RLHF** and **multimodal Agents**.  
  
