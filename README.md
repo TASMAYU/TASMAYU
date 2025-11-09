@@ -14,33 +14,34 @@
 
 ---
 
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack  
 
-### 💻 Languages
-![Python](https://badges.pages.dev/badge/Python-3776AB?logo=python&logoColor=white&style=rounded)
-![JavaScript](https://badges.pages.dev/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=rounded)
-![C++](https://badges.pages.dev/badge/C++-00599C?logo=cplusplus&logoColor=white&style=rounded)
-![HTML5](https://badges.pages.dev/badge/HTML5-E34F26?logo=html5&logoColor=white&style=rounded)
-![CSS3](https://badges.pages.dev/badge/CSS3-1572B6?logo=css3&logoColor=white&style=rounded)
-
----
-
-### 🤖 AI/ML Frameworks
-![PyTorch](https://badges.pages.dev/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=rounded)
-![TensorFlow](https://badges.pages.dev/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=rounded)
-![LangChain](https://badges.pages.dev/badge/LangChain-0A66C2?logo=chainlink&logoColor=white&style=rounded)
-![Scikit-Learn](https://badges.pages.dev/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=rounded)
-![Keras](https://badges.pages.dev/badge/Keras-D00000?logo=keras&logoColor=white&style=rounded)
-![NumPy](https://badges.pages.dev/badge/NumPy-013243?logo=numpy&logoColor=white&style=rounded)
-![Pandas](https://badges.pages.dev/badge/Pandas-150458?logo=pandas&logoColor=white&style=rounded)
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-### 🧰 Tools & APIs
-![Docker](https://badges.pages.dev/badge/Docker-2496ED?logo=docker&logoColor=white&style=rounded)
-![HuggingFace](https://badges.pages.dev/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=rounded)
-![FastAPI](https://badges.pages.dev/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=rounded)
-![Streamlit](https://badges.pages.dev/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=rounded)
+#### 🤖 AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=flat-square&logo=chainlink&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+#### 🧩 Tools & APIs
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC4D?style=flat-square&logo=huggingface&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
 
 
 ---
