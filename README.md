@@ -63,15 +63,16 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TASMAYU&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=TASMAYU&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TASMAYU&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=TASMAYU&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TASMAYU&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TASMAYU&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" />
 </p>
 
 ---
+
 
 
 ### 🛰️ Connect With Me  
