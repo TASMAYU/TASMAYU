@@ -7,9 +7,8 @@
 ---
 
 ### 🌌 About Me  
-💡 A **CSE undergrad** passionate about **Artificial Intelligence**, **LLMs**, **Reinforcement Learning** and **AGI**.  
-🧠 I love creating AI models that reason, interact, and solve real-world problems.  
-🧩 Currently exploring **autonomous AI systems**, **RLHF** and **multimodal Agents**.  
+ A **CSE undergrad** passionate about **Artificial Intelligence**, **LLMs**, **Reinforcement Learning** and **AGI**.   
+ Currently exploring **autonomous AI systems**, **RLHF** and **multimodal Agents**.  
  
 
 ---
