@@ -22,7 +22,7 @@ Krish Malik, **Tasmayu Swain**, Krishna Mudgal · <sub><i>NeurIPS 2026 Workshops
 **Tasmayu Swain**, Krish Malik, Krishna Mudgal, Yajat Makhija · <sub><i>OpenReview</i></sub><br>
 <sub>Reproducing and extending Generalized LMC for ViTs and GPT-2 across out-of-domain code, varying depths, regularized weight matching and adversarial endpoints.</sub>
 
-### 🧪 Experiments
+### 🧪 Research Projects
 
 | | Project | What it does |
 |---|---|---|
