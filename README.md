@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Transformer+Merging+%26+Parameter+Symmetries;Representation+Learning+%26+Alignment;RL+Post-Training+for+Language+Models;Vision-Language-Action+Models+for+Robotics" alt="research interests" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=RL+Post-Training+%26+Transformer+Merging;Representation+Learning+%26+Alignment;Vision-Language-Action+Models+for+Robotics" alt="research interests" />
 </p>
 
 <p align="center">
